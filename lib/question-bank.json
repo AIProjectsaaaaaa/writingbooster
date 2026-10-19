@@ -1,0 +1,904 @@
+[
+  {
+    "id": "pretest-01",
+    "number": 1,
+    "title": "Pretest 01 · Olympic medals",
+    "task1": {
+      "title": "Olympic medals",
+      "prompt": "The chart below gives information about the number of medals awarded to men and women at Olympic games between 1960 and 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 1,
+      "image": "/question-bank/pages/page-01.webp",
+      "width": 1650,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Shared transport in cities",
+      "prompt": "Some people believe the best way to get around large cities is to use ‘share bikes’ and ‘share cars’*. Others think it is better to use public or private transport.\n\nDiscuss both these views and give your own opinion.\n\n*share bikes and cars: bikes and cars that are rented for a short time and can be left at different locations\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 2,
+      "image": "/question-bank/pages/page-02.webp",
+      "width": 1657,
+      "height": 2268
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-02",
+    "number": 2,
+    "title": "Pretest 02 · Languages in Belgium",
+    "task1": {
+      "title": "Languages in Belgium",
+      "prompt": "The charts below give information by age group about the percentage of adults in Belgium in 2015 with Flemish, French or English as a first or second language.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 3,
+      "image": "/question-bank/pages/page-03.webp",
+      "width": 1656,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Instant information and results",
+      "prompt": "More people today want instant information and instant results.\n\nDo you think this is a positive or negative development?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 4,
+      "image": "/question-bank/pages/page-04.webp",
+      "width": 1593,
+      "height": 2286
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-03",
+    "number": 3,
+    "title": "Pretest 03 · Australian city populations",
+    "task1": {
+      "title": "Australian city populations",
+      "prompt": "The chart below shows the population of five cities in Australia in 1901 and 2001, with a projection to 2101.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 5,
+      "image": "/question-bank/pages/page-05.webp",
+      "width": 1656,
+      "height": 2300
+    },
+    "task2": {
+      "title": "Creative activities and wellbeing",
+      "prompt": "Creative activities such as singing, dancing and making art have a more positive impact on a person’s health and wellbeing than relaxing in front of a computer.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 6,
+      "image": "/question-bank/pages/page-06.webp",
+      "width": 1662,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-04",
+    "number": 4,
+    "title": "Pretest 04 · Devices while watching television",
+    "task1": {
+      "title": "Devices while watching television",
+      "prompt": "The charts below show the percentage of people in the USA who used their smartphones and tablets for three reasons while watching TV in 2012, 2014 and 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 7,
+      "image": "/question-bank/pages/page-07.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Customers or employees",
+      "prompt": "Some people believe that for a business to be successful, it must take care of its customers first. Others believe it is more important for a business to take care of its employees.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 8,
+      "image": "/question-bank/pages/page-08.webp",
+      "width": 1642,
+      "height": 2287
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-05",
+    "number": 5,
+    "title": "Pretest 05 · Australian preschool programmes",
+    "task1": {
+      "title": "Australian preschool programmes",
+      "prompt": "The charts below give information about the percentage of young children enrolled in two types of pre-school programme, and the cost of pre-schools, in three Australian states in 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 9,
+      "image": "/question-bank/pages/page-09.webp",
+      "width": 1622,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Computers and creativity at work",
+      "prompt": "Some people say that workers are becoming less creative because computers do most of their tasks at work. Others say that computers are helping workers become more creative.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 10,
+      "image": "/question-bank/pages/page-10.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-06",
+    "number": 6,
+    "title": "Pretest 06 · Home ownership in Australia",
+    "task1": {
+      "title": "Home ownership in Australia",
+      "prompt": "The chart below shows the percentage of people in Australia, by age group, who owned their own home from 1981 to 2011.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 11,
+      "image": "/question-bank/pages/page-11.webp",
+      "width": 1662,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Protecting national parks",
+      "prompt": "The only way to protect the natural beauty of national parks and other special natural areas is to prevent people from using these areas.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 12,
+      "image": "/question-bank/pages/page-12.webp",
+      "width": 1670,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-07",
+    "number": 7,
+    "title": "Pretest 07 · Female university graduates",
+    "task1": {
+      "title": "Female university graduates",
+      "prompt": "The graph below shows the percentage of female university graduates in three study programmes in the USA between 1970 and 2010.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 13,
+      "image": "/question-bank/pages/page-13.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Reducing plastic waste",
+      "prompt": "The only way to reduce plastic waste is to introduce a law that bans manufacturers and supermarkets from using plastic.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 14,
+      "image": "/question-bank/pages/page-14.webp",
+      "width": 1667,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-08",
+    "number": 8,
+    "title": "Pretest 08 · Diamond production",
+    "task1": {
+      "title": "Diamond production",
+      "prompt": "The graph below gives information about diamond production by the world’s leading producers between 2009 and 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 15,
+      "image": "/question-bank/pages/page-15.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Learning a musical instrument",
+      "prompt": "Some people say that everyone should learn to play a musical instrument at some time in their life. Others say that this is a waste of time.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 16,
+      "image": "/question-bank/pages/page-16.webp",
+      "width": 1659,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-09",
+    "number": 9,
+    "title": "Pretest 09 · Oil consumption",
+    "task1": {
+      "title": "Oil consumption",
+      "prompt": "The graph below gives information about oil consumption in four countries from 1980 to 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 17,
+      "image": "/question-bank/pages/page-17.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Studying the past",
+      "prompt": "Some people believe that studying the past helps us to solve problems today. Others believe that studying the past is not relevant to today’s problems.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 18,
+      "image": "/question-bank/pages/page-18.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-10",
+    "number": 10,
+    "title": "Pretest 10 · Arable land",
+    "task1": {
+      "title": "Arable land",
+      "prompt": "The chart below gives information about the amount of arable* land per person in seven countries in 2012 and projections for 2050.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 19,
+      "image": "/question-bank/pages/page-19.webp",
+      "width": 1656,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Historical films and history books",
+      "prompt": "We can learn everything we need to know about the past through historical drama in films and on television. We therefore no longer need to read history books.\n\nTo what extent do you agree or disagree with this view?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 20,
+      "image": "/question-bank/pages/page-20.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-11",
+    "number": 11,
+    "title": "Pretest 11 · Government health spending",
+    "task1": {
+      "title": "Government health spending",
+      "prompt": "The graph below shows the average amount spent by four European governments on health per person from 2006 to 2013.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 21,
+      "image": "/question-bank/pages/page-21.webp",
+      "width": 1653,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Transport by ship",
+      "prompt": "Ships should be used more frequently as a means of transporting goods and passengers.\n\nTo what extent do you agree or disagree with this statement?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 22,
+      "image": "/question-bank/pages/page-22.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-12",
+    "number": 12,
+    "title": "Pretest 12 · Journeys by transport type",
+    "task1": {
+      "title": "Journeys by transport type",
+      "prompt": "The graph below shows the percentage of total journeys taken by transport type in one country between 1985 and 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 23,
+      "image": "/question-bank/pages/page-23.webp",
+      "width": 1656,
+      "height": 2300
+    },
+    "task2": {
+      "title": "Teaching history with ancient objects",
+      "prompt": "The study of ancient objects is the best way to make history interesting for students today.\n\nTo what extent do you agree or disagree with this opinion?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 24,
+      "image": "/question-bank/pages/page-24.webp",
+      "width": 1646,
+      "height": 2277
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-13",
+    "number": 13,
+    "title": "Pretest 13 · Goods transport in China",
+    "task1": {
+      "title": "Goods transport in China",
+      "prompt": "The graph below shows different methods used in China to transport goods between 2001 and 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 25,
+      "image": "/question-bank/pages/page-25.webp",
+      "width": 1659,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Building costs and appearance",
+      "prompt": "It is more important for buildings to be cheap and easy to construct than for them to be attractive to look at.\n\nTo what extent do you agree or disagree with this opinion?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 26,
+      "image": "/question-bank/pages/page-26.webp",
+      "width": 1656,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-14",
+    "number": 14,
+    "title": "Pretest 14 · Patients improving their health",
+    "task1": {
+      "title": "Patients improving their health",
+      "prompt": "The chart below shows the percentage of patients of different ages in one country who made changes to improve their health in 2017.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 27,
+      "image": "/question-bank/pages/page-27.webp",
+      "width": 1633,
+      "height": 2290
+    },
+    "task2": {
+      "title": "Multinational businesses",
+      "prompt": "Some people believe that large multinational businesses make the world a better place. Others disagree.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 28,
+      "image": "/question-bank/pages/page-28.webp",
+      "width": 1648,
+      "height": 2275
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-15",
+    "number": 15,
+    "title": "Pretest 15 · Household savings",
+    "task1": {
+      "title": "Household savings",
+      "prompt": "The graph below shows household* savings as a percentage of household income in four countries, between 2000 and 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 29,
+      "image": "/question-bank/pages/page-29.webp",
+      "width": 1653,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Women in leadership",
+      "prompt": "All around the world, most top positions in organisations are held by men. Some people say that more women should hold top positions.\n\nWhat is your opinion about this?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 30,
+      "image": "/question-bank/pages/page-30.webp",
+      "width": 1673,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-16",
+    "number": 16,
+    "title": "Pretest 16 · Private pension savings",
+    "task1": {
+      "title": "Private pension savings",
+      "prompt": "The graph below shows the amount of money in private pension schemes as a percentage of GDP* in four countries, between 2007 and 2011.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 31,
+      "image": "/question-bank/pages/page-31.webp",
+      "width": 1656,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Lasting relationships",
+      "prompt": "Psychologists suggest that people do not need the same interests or personalities in order to establish lasting relationships.\n\nTo what extent do you agree or disagree with this statement?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 32,
+      "image": "/question-bank/pages/page-32.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-17",
+    "number": 17,
+    "title": "Pretest 17 · Vegetarians in New Zealand",
+    "task1": {
+      "title": "Vegetarians in New Zealand",
+      "prompt": "The charts below show the percentage of the population of New Zealand who were vegetarians, by gender and age, in 2011 and 2015.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 33,
+      "image": "/question-bank/pages/page-33.webp",
+      "width": 1659,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Planning residential areas",
+      "prompt": "Poorly planned streets and housing in residential areas can result in problems for residents and other members of the public.\n\nWhat problems do you think are caused by poor planning in residential areas?\n\nHow can these problems be solved?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 34,
+      "image": "/question-bank/pages/page-34.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-18",
+    "number": 18,
+    "title": "Pretest 18 · Humpback whale births",
+    "task1": {
+      "title": "Humpback whale births",
+      "prompt": "The chart below shows the number of humpback whales born near the Pacific Island of Tonga, by gender, between 2009 and 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 35,
+      "image": "/question-bank/pages/page-35.webp",
+      "width": 1653,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Fashion lessons at school",
+      "prompt": "The clothes young people wear can have a big impact on their confidence, so lessons in fashion should be taught at school.\n\nTo what extent do you agree or disagree with this statement?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 36,
+      "image": "/question-bank/pages/page-36.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-19",
+    "number": 19,
+    "title": "Pretest 19 · Car travel by age",
+    "task1": {
+      "title": "Car travel by age",
+      "prompt": "The graph below shows the average number of kilometres (kms) travelled by car per person per year, in one country in 1995, 2002 and 2009, by age group.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 37,
+      "image": "/question-bank/pages/page-37.webp",
+      "width": 1656,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Gender equality in employment",
+      "prompt": "Many companies employ more men than women. Some people believe that companies should always employ an equal number of men and women.\n\nWhat is your opinion about this?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 38,
+      "image": "/question-bank/pages/page-38.webp",
+      "width": 1667,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-20",
+    "number": 20,
+    "title": "Pretest 20 · Exercise around the world",
+    "task1": {
+      "title": "Exercise around the world",
+      "prompt": "The charts below show the attitudes of adults worldwide towards doing exercise, and the types of exercise they did regularly, in 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 39,
+      "image": "/question-bank/pages/page-39.webp",
+      "width": 1659,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Consumers and environmental harm",
+      "prompt": "Many products are made in ways that are very bad for the environment.\n\nSome people say that if consumers had more information about the harm these products do, they would not buy them.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 40,
+      "image": "/question-bank/pages/page-40.webp",
+      "width": 1659,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-21",
+    "number": 21,
+    "title": "Pretest 21 · Waterside redevelopment",
+    "task1": {
+      "title": "Waterside redevelopment",
+      "prompt": "The plans below show how a waterside area looked in 2010 and how it looks now.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 41,
+      "image": "/question-bank/pages/page-41.webp",
+      "width": 1650,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Sleep and health",
+      "prompt": "Research shows that the right amount of sleep is necessary for good health, and that many people are not getting enough sleep.\n\nWhy do you think people are not getting enough sleep?\n\nWhat might be the best ways to solve this problem?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 42,
+      "image": "/question-bank/pages/page-42.webp",
+      "width": 1673,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-22",
+    "number": 22,
+    "title": "Pretest 22 · Science graduates",
+    "task1": {
+      "title": "Science graduates",
+      "prompt": "The charts below give information about what science graduates in one country did after university in 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 44,
+      "image": "/question-bank/pages/page-44.webp",
+      "width": 1630,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Celebrities advertising unhealthy products",
+      "prompt": "Celebrities often appear in advertising for unhealthy food and drinks. Some people believe that advertisers should not be allowed to use celebrities for this purpose.\n\nWhat is your opinion about this?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 45,
+      "image": "/question-bank/pages/page-45.webp",
+      "width": 1656,
+      "height": 2292
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-23",
+    "number": 23,
+    "title": "Pretest 23 · Places of work in the UK",
+    "task1": {
+      "title": "Places of work in the UK",
+      "prompt": "The charts below show the percentage of people working in different places in one UK town and in the UK as a whole in 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 46,
+      "image": "/question-bank/pages/page-46.webp",
+      "width": 1650,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Travel and international relations",
+      "prompt": "International relations can only be improved if young people travel widely and experience other cultures.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 47,
+      "image": "/question-bank/pages/page-47.webp",
+      "width": 1670,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-24",
+    "number": 24,
+    "title": "Pretest 24 · After-school activities",
+    "task1": {
+      "title": "After-school activities",
+      "prompt": "The table and chart below give information about children aged 11-16 who took part in after-school activities in one country in 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 48,
+      "image": "/question-bank/pages/page-48.webp",
+      "width": 1650,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Taller buildings in cities",
+      "prompt": "Many cities today are expanding upwards, with increasingly taller buildings being constructed for people to live and work in.\n\nDo the advantages of this development outweigh the disadvantages?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 49,
+      "image": "/question-bank/pages/page-49.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-25",
+    "number": 25,
+    "title": "Pretest 25 · International trade",
+    "task1": {
+      "title": "International trade",
+      "prompt": "The charts below show the value of goods traded between country A and country B between 2012 and 2018 and the type of goods imported into country A in 2017 and 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 50,
+      "image": "/question-bank/pages/page-50.webp",
+      "width": 1648,
+      "height": 2292
+    },
+    "task2": {
+      "title": "Personal responsibility for health",
+      "prompt": "People depend too much on doctors to solve their health problems. People should do more to look after their own health.\n\nTo what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 51,
+      "image": "/question-bank/pages/page-51.webp",
+      "width": 1664,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-26",
+    "number": 26,
+    "title": "Pretest 26 · UK airport travel purposes",
+    "task1": {
+      "title": "UK airport travel purposes",
+      "prompt": "The charts below give information about the purposes of travel for passengers using four different UK airports in 2016.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 52,
+      "image": "/question-bank/pages/page-52.webp",
+      "width": 1659,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Farmland for vegetables or meat",
+      "prompt": "The population of the world is growing so the demand for food is rising. Using land to grow vegetables is more efficient and better for the environment than using it for animals to produce meat.\n\nTo what extent do you agree it is better to use farmland to grow vegetables?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 53,
+      "image": "/question-bank/pages/page-53.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-27",
+    "number": 27,
+    "title": "Pretest 27 · MBA graduate employment",
+    "task1": {
+      "title": "MBA graduate employment",
+      "prompt": "The charts below give information about the employment of graduates who completed a Master’s degree in Business Administration (MBA) at one university in 2012.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 54,
+      "image": "/question-bank/pages/page-54.webp",
+      "width": 1656,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Preparing and cooking food",
+      "prompt": "In some places, people no longer prepare and cook food themselves.\n\nWhy might this be the case?\n\nIs this a positive or negative development?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 55,
+      "image": "/question-bank/pages/page-55.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-28",
+    "number": 28,
+    "title": "Pretest 28 · Family spending",
+    "task1": {
+      "title": "Family spending",
+      "prompt": "The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 56,
+      "image": "/question-bank/pages/page-56.webp",
+      "width": 1662,
+      "height": 2303
+    },
+    "task2": {
+      "title": "Professionals working abroad",
+      "prompt": "Some people believe that professionals, such as doctors and engineers, should have to work in the country where they did their training. Others believe they should be free to move to another country if they wish.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 57,
+      "image": "/question-bank/pages/page-57.webp",
+      "width": 1659,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-29",
+    "number": 29,
+    "title": "Pretest 29 · Bamboo fabric production",
+    "task1": {
+      "title": "Bamboo fabric production",
+      "prompt": "The diagram below shows how fabric is manufactured from bamboo.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 58,
+      "image": "/question-bank/pages/page-58.webp",
+      "width": 1667,
+      "height": 2300
+    },
+    "task2": {
+      "title": "Global fashion and individuality",
+      "prompt": "Many aspects of the way people dress today are influenced by global fashion trends. How has global fashion become such a strong influence on people’s lives?\n\nHas this influence destroyed individuality?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 59,
+      "image": "/question-bank/pages/page-59.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-30",
+    "number": 30,
+    "title": "Pretest 30 · Beechwood Farm",
+    "task1": {
+      "title": "Beechwood Farm",
+      "prompt": "The plans below show the site of a farm in 1950 and the same site today.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 60,
+      "image": "/question-bank/pages/page-60.webp",
+      "width": 1664,
+      "height": 2303
+    },
+    "task2": {
+      "title": "Theatres and cinemas in the digital age",
+      "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 61,
+      "image": "/question-bank/pages/page-61.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-31",
+    "number": 31,
+    "title": "Pretest 31 · Bamboo fabric production",
+    "task1": {
+      "title": "Bamboo fabric production",
+      "prompt": "The diagram below shows how fabric is manufactured from bamboo.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 62,
+      "image": "/question-bank/pages/page-62.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Global fashion and individuality",
+      "prompt": "Many aspects of the way people dress today are influenced by global fashion trends. How has global fashion become such a strong influence on people’s lives?\n\nHas this influence destroyed individuality?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 63,
+      "image": "/question-bank/pages/page-63.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "duplicateOf": 29
+  },
+  {
+    "id": "pretest-32",
+    "number": 32,
+    "title": "Pretest 32 · Beechwood Farm",
+    "task1": {
+      "title": "Beechwood Farm",
+      "prompt": "The plans below show the site of a farm in 1950 and the same site today.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 64,
+      "image": "/question-bank/pages/page-64.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Theatres and cinemas in the digital age",
+      "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 65,
+      "image": "/question-bank/pages/page-65.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "duplicateOf": 30
+  },
+  {
+    "id": "pretest-33",
+    "number": 33,
+    "title": "Pretest 33 · Ethanol production",
+    "task1": {
+      "title": "Ethanol production",
+      "prompt": "The diagram below shows how a biofuel called ethanol is produced.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 66,
+      "image": "/question-bank/pages/page-66.webp",
+      "width": 1667,
+      "height": 2300
+    },
+    "task2": {
+      "title": "The four-day working week",
+      "prompt": "The working week should be four days long, and the weekend three days long.\n\nDo you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 67,
+      "image": "/question-bank/pages/page-67.webp",
+      "width": 1667,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-34",
+    "number": 34,
+    "title": "Pretest 34 · Dance classes in Australia",
+    "task1": {
+      "title": "Dance classes in Australia",
+      "prompt": "The table and chart give information on the location and types of dance class undertaken by young people in a town in Australia.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 68,
+      "image": "/question-bank/pages/page-68.webp",
+      "width": 1667,
+      "height": 2295
+    },
+    "task2": {
+      "title": "Free household water supplies",
+      "prompt": "Access to clean water is a basic human right. Therefore every home should have a water supply that is free.\n\nDo you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 69,
+      "image": "/question-bank/pages/page-69.webp",
+      "width": 1664,
+      "height": 2295
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-35",
+    "number": 35,
+    "title": "Pretest 35 · Little Chalfont Library",
+    "task1": {
+      "title": "Little Chalfont Library",
+      "prompt": "The charts below give information about a public library in a town called Little Chalfont.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 70,
+      "image": "/question-bank/pages/page-70.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Flying less and the environment",
+      "prompt": "Some people have decided to reduce the number of times they fly every year or to stop flying altogether.\n\nDo you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 71,
+      "image": "/question-bank/pages/page-71.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": null
+  },
+  {
+    "id": "pretest-36",
+    "number": 36,
+    "title": "Pretest 36 · Family spending",
+    "task1": {
+      "title": "Family spending",
+      "prompt": "The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 72,
+      "image": "/question-bank/pages/page-72.webp",
+      "width": 1662,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Professionals working abroad",
+      "prompt": "Some people believe that professionals, such as doctors and engineers, should have to work in the country where they did their training. Others believe they should be free to move to another country if they wish.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 73,
+      "image": "/question-bank/pages/page-73.webp",
+      "width": 1659,
+      "height": 2300
+    },
+    "duplicateOf": 28
+  },
+  {
+    "id": "pretest-37",
+    "number": 37,
+    "title": "Pretest 37 · Ethanol production",
+    "task1": {
+      "title": "Ethanol production",
+      "prompt": "The diagram below shows how a biofuel called ethanol is produced.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 74,
+      "image": "/question-bank/pages/page-74.webp",
+      "width": 1667,
+      "height": 2300
+    },
+    "task2": {
+      "title": "The four-day working week",
+      "prompt": "The working week should be four days long, and the weekend three days long.\n\nDo you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 75,
+      "image": "/question-bank/pages/page-75.webp",
+      "width": 1664,
+      "height": 2303
+    },
+    "duplicateOf": 33
+  },
+  {
+    "id": "pretest-38",
+    "number": 38,
+    "title": "Pretest 38 · Little Chalfont Library",
+    "task1": {
+      "title": "Little Chalfont Library",
+      "prompt": "The charts below give information about a public library in a town called Little Chalfont.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 76,
+      "image": "/question-bank/pages/page-76.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Flying less and the environment",
+      "prompt": "Some people have decided to reduce the number of times they fly every year or to stop flying altogether.\n\nDo you think the environmental benefits of this development outweigh the disadvantages for individuals and businesses?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 77,
+      "image": "/question-bank/pages/page-77.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": 35
+  },
+  {
+    "id": "pretest-39",
+    "number": 39,
+    "title": "Pretest 39 · Bamboo fabric production",
+    "task1": {
+      "title": "Bamboo fabric production",
+      "prompt": "The diagram below shows how fabric is manufactured from bamboo.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 78,
+      "image": "/question-bank/pages/page-78.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Global fashion and individuality",
+      "prompt": "Many aspects of the way people dress today are influenced by global fashion trends. How has global fashion become such a strong influence on people’s lives?\n\nHas this influence destroyed individuality?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 79,
+      "image": "/question-bank/pages/page-79.webp",
+      "width": 1664,
+      "height": 2303
+    },
+    "duplicateOf": 29
+  },
+  {
+    "id": "pretest-40",
+    "number": 40,
+    "title": "Pretest 40 · Dance classes in Australia",
+    "task1": {
+      "title": "Dance classes in Australia",
+      "prompt": "The table and chart give information on the location and types of dance class undertaken by young people in a town in Australia.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 80,
+      "image": "/question-bank/pages/page-80.webp",
+      "width": 1667,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Free household water supplies",
+      "prompt": "Access to clean water is a basic human right. Therefore every home should have a water supply that is free.\n\nDo you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 81,
+      "image": "/question-bank/pages/page-81.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": 34
+  },
+  {
+    "id": "pretest-41",
+    "number": 41,
+    "title": "Pretest 41 · Beechwood Farm",
+    "task1": {
+      "title": "Beechwood Farm",
+      "prompt": "The plans below show the site of a farm in 1950 and the same site today.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+      "sourcePage": 82,
+      "image": "/question-bank/pages/page-82.webp",
+      "width": 1664,
+      "height": 2298
+    },
+    "task2": {
+      "title": "Theatres and cinemas in the digital age",
+      "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally.\n\nDiscuss both these views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nWrite at least 250 words.",
+      "sourcePage": 83,
+      "image": "/question-bank/pages/page-83.webp",
+      "width": 1662,
+      "height": 2300
+    },
+    "duplicateOf": 30
+  }
+]

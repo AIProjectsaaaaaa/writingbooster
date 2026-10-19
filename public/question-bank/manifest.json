@@ -1,0 +1,19 @@
+{
+  "source": "writing pretest collection (1).pdf",
+  "sha256": "0b3d0cb9ada5dccacfadadde8301c79fa61c7bac17b6bb91b91ed5eb41a6278e",
+  "sourcePages": 83,
+  "excludedPages": [
+    {
+      "page": 43,
+      "reason": "Cover and candidate instructions; not a writing question."
+    }
+  ],
+  "sets": 41,
+  "taskPages": 82,
+  "uniquePairs": 33,
+  "note": "Repeated questions in the source are retained and labelled. Original full-page scans are the authority; no charts have been redrawn. Page 14 includes extra teaching annotations in the source.",
+  "imageDpi": 200,
+  "imageQuality": 94,
+  "chartImages": 41,
+  "chartNote": "Task 1 chart crops remove page headers and whitespace; original full-page scans are retained for verification."
+}
